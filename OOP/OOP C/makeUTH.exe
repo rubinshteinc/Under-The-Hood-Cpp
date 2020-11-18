@@ -1,0 +1,4 @@
+\rm a.out
+gcc -ansi -pedantic -Wall -Wconversion -std=c90 polymorphism/c_polymorphism_defs.c gcc -ansi -pedantic -Wall -Wconversion -std=c90 polymorphism/c_polymorphism_defs.c polymorphism/c_polymorphism.c
+./a.out
+

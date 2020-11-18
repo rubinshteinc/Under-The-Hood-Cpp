@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/a/Documents/Semester B/Under The Hood/Under The Hood c++ 1/cpp2c_polymorphism.cpp
+cpp2c_polymorphism_defs.h
+/home/a/Documents/Semester B/Under The Hood/Under The Hood c++ 1/cpp2c_polymorphism_defs.h
+
+/home/a/Documents/Semester B/Under The Hood/Under The Hood c++ 1/cpp2c_polymorphism_defs.h
+cstdio
+-
+

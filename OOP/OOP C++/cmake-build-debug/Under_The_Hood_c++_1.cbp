@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Under_The_Hood_c++_1"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/a/Documents/Semester B/Under The Hood/Under The Hood c++ 1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/a/Documents/Semester\ B/Under\ The\ Hood/Under\ The\ Hood\ c++\ 1/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/a/Documents/Semester\ B/Under\ The\ Hood/Under\ The\ Hood\ c++\ 1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/a/Documents/Semester\ B/Under\ The\ Hood/Under\ The\ Hood\ c++\ 1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/a/Documents/Semester\ B/Under\ The\ Hood/Under\ The\ Hood\ c++\ 1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/a/Documents/Semester B/Under The Hood/Under The Hood c++ 1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/a/Documents/Semester\ B/Under\ The\ Hood/Under\ The\ Hood\ c++\ 1/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/a/Documents/Semester\ B/Under\ The\ Hood/Under\ The\ Hood\ c++\ 1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/a/Documents/Semester\ B/Under\ The\ Hood/Under\ The\ Hood\ c++\ 1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/a/Documents/Semester\ B/Under\ The\ Hood/Under\ The\ Hood\ c++\ 1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Under_The_Hood_c++_1">
+				<Option output="/home/a/Documents/Semester B/Under The Hood/Under The Hood c++ 1/cmake-build-debug/Under_The_Hood_c++_1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/a/Documents/Semester B/Under The Hood/Under The Hood c++ 1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/a/Documents/Semester\ B/Under\ The\ Hood/Under\ The\ Hood\ c++\ 1/cmake-build-debug/Makefile&quot;  VERBOSE=1 Under_The_Hood_c++_1"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/a/Documents/Semester\ B/Under\ The\ Hood/Under\ The\ Hood\ c++\ 1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/a/Documents/Semester\ B/Under\ The\ Hood/Under\ The\ Hood\ c++\ 1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/a/Documents/Semester\ B/Under\ The\ Hood/Under\ The\ Hood\ c++\ 1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Under_The_Hood_c++_1/fast">
+				<Option output="/home/a/Documents/Semester B/Under The Hood/Under The Hood c++ 1/cmake-build-debug/Under_The_Hood_c++_1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/a/Documents/Semester B/Under The Hood/Under The Hood c++ 1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/a/Documents/Semester\ B/Under\ The\ Hood/Under\ The\ Hood\ c++\ 1/cmake-build-debug/Makefile&quot;  VERBOSE=1 Under_The_Hood_c++_1/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/a/Documents/Semester\ B/Under\ The\ Hood/Under\ The\ Hood\ c++\ 1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/a/Documents/Semester\ B/Under\ The\ Hood/Under\ The\ Hood\ c++\ 1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/a/Documents/Semester\ B/Under\ The\ Hood/Under\ The\ Hood\ c++\ 1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/a/Documents/Semester B/Under The Hood/Under The Hood c++ 1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/a/Documents/Semester\ B/Under\ The\ Hood/Under\ The\ Hood\ c++\ 1/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/a/Documents/Semester\ B/Under\ The\ Hood/Under\ The\ Hood\ c++\ 1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/a/Documents/Semester\ B/Under\ The\ Hood/Under\ The\ Hood\ c++\ 1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/a/Documents/Semester\ B/Under\ The\ Hood/Under\ The\ Hood\ c++\ 1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/a/Documents/Semester B/Under The Hood/Under The Hood c++ 1/cpp2c_encapsulation.cpp">
+			<Option target="Under_The_Hood_c++_1"/>
+		</Unit>
+		<Unit filename="/home/a/Documents/Semester B/Under The Hood/Under The Hood c++ 1/cpp2c_encapsulation_defs.cpp">
+			<Option target="Under_The_Hood_c++_1"/>
+		</Unit>
+		<Unit filename="/home/a/Documents/Semester B/Under The Hood/Under The Hood c++ 1/cpp2c_encapsulation_defs.h">
+			<Option target="Under_The_Hood_c++_1"/>
+		</Unit>
+		<Unit filename="/home/a/Documents/Semester B/Under The Hood/Under The Hood c++ 1/cpp2c_inheritance.cpp">
+			<Option target="Under_The_Hood_c++_1"/>
+		</Unit>
+		<Unit filename="/home/a/Documents/Semester B/Under The Hood/Under The Hood c++ 1/cpp2c_inheritance_defs.cpp">
+			<Option target="Under_The_Hood_c++_1"/>
+		</Unit>
+		<Unit filename="/home/a/Documents/Semester B/Under The Hood/Under The Hood c++ 1/cpp2c_inheritance_defs.h">
+			<Option target="Under_The_Hood_c++_1"/>
+		</Unit>
+		<Unit filename="/home/a/Documents/Semester B/Under The Hood/Under The Hood c++ 1/cpp2c_polymorphism.cpp">
+			<Option target="Under_The_Hood_c++_1"/>
+		</Unit>
+		<Unit filename="/home/a/Documents/Semester B/Under The Hood/Under The Hood c++ 1/cpp2c_polymorphism_defs.cpp">
+			<Option target="Under_The_Hood_c++_1"/>
+		</Unit>
+		<Unit filename="/home/a/Documents/Semester B/Under The Hood/Under The Hood c++ 1/cpp2c_polymorphism_defs.h">
+			<Option target="Under_The_Hood_c++_1"/>
+		</Unit>
+		<Unit filename="/home/a/Documents/Semester B/Under The Hood/Under The Hood c++ 1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

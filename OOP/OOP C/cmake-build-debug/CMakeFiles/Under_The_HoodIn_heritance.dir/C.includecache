@@ -1,0 +1,80 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../encapsulation/c_encapsulation_defs.h
+stdbool.h
+-
+stdio.h
+-
+
+../inheritance/c_inheritance_defs.h
+stdio.h
+-
+string.h
+-
+encapsulation/c_encapsulation_defs.h
+../inheritance/encapsulation/c_encapsulation_defs.h
+
+/home/a/Documents/SemesterB/Under The Hood/Under The HoodIn heritance/encapsulation/c_encapsulation.c
+stdio.h
+-
+c_encapsulation_defs.h
+/home/a/Documents/SemesterB/Under The Hood/Under The HoodIn heritance/encapsulation/c_encapsulation_defs.h
+
+/home/a/Documents/SemesterB/Under The Hood/Under The HoodIn heritance/encapsulation/c_encapsulation_def.c
+c_encapsulation_defs.h
+/home/a/Documents/SemesterB/Under The Hood/Under The HoodIn heritance/encapsulation/c_encapsulation_defs.h
+stddef.h
+-
+stdio.h
+-
+string.h
+-
+
+/home/a/Documents/SemesterB/Under The Hood/Under The HoodIn heritance/encapsulation/c_encapsulation_defs.h
+stdbool.h
+-
+stdio.h
+-
+
+/home/a/Documents/SemesterB/Under The Hood/Under The HoodIn heritance/inheritance/c_inheritance.c
+c_inheritance_defs.h
+/home/a/Documents/SemesterB/Under The Hood/Under The HoodIn heritance/inheritance/c_inheritance_defs.h
+
+/home/a/Documents/SemesterB/Under The Hood/Under The HoodIn heritance/inheritance/c_inheritance_defs.c
+inheritance/c_inheritance_defs.h
+/home/a/Documents/SemesterB/Under The Hood/Under The HoodIn heritance/inheritance/inheritance/c_inheritance_defs.h
+
+/home/a/Documents/SemesterB/Under The Hood/Under The HoodIn heritance/inheritance/c_inheritance_defs.h
+stdio.h
+-
+string.h
+-
+encapsulation/c_encapsulation_defs.h
+/home/a/Documents/SemesterB/Under The Hood/Under The HoodIn heritance/inheritance/encapsulation/c_encapsulation_defs.h
+
+/home/a/Documents/SemesterB/Under The Hood/Under The HoodIn heritance/polymorphism/c_polymorphism.c
+c_polymorphism_defs.h
+/home/a/Documents/SemesterB/Under The Hood/Under The HoodIn heritance/polymorphism/c_polymorphism_defs.h
+stdlib.h
+-
+
+/home/a/Documents/SemesterB/Under The Hood/Under The HoodIn heritance/polymorphism/c_polymorphism_defs.c
+c_polymorphism_defs.h
+/home/a/Documents/SemesterB/Under The Hood/Under The HoodIn heritance/polymorphism/c_polymorphism_defs.h
+string.h
+-
+stdlib.h
+-
+stdio.h
+-
+
+/home/a/Documents/SemesterB/Under The Hood/Under The HoodIn heritance/polymorphism/c_polymorphism_defs.h
+stdio.h
+-
+
